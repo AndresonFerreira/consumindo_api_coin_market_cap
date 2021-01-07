@@ -1,1 +1,5 @@
-# consumindo_api_coin_market_cap
+# Consumindo Api Coin Market Cap:
+
+## Sobre o projeto
+
+Projeto abordando requisição de uma API de Criptomoeda com JavaScript.
